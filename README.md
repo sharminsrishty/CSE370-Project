@@ -1,4 +1,6 @@
 # CSE370-Project
+### Directory structure
+```
 student_alumni/
 │── config/
 │   └── db.php              # Database connection file
@@ -45,3 +47,4 @@ student_alumni/
 │── project370.sql          # Your final schema
 │
 └── README.md               # Project documentation
+```
